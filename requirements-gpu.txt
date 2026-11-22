@@ -1,0 +1,3 @@
+# NVIDIA GPU, Linux x86-64 / WSL2; compatible host driver required.
+-r requirements-base.txt
+tensorflow[and-cuda]>=2.16,<2.20

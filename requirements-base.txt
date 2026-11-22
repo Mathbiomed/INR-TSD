@@ -1,0 +1,4 @@
+# Installation ranges; not a manuscript environment lock.
+numpy>=1.26,<2.0
+pandas>=2.0
+matplotlib>=3.7

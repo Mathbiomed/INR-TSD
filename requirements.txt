@@ -1,0 +1,2 @@
+# Default CPU route for Linux/Windows x86-64. See README for other platforms.
+-r requirements-cpu.txt
