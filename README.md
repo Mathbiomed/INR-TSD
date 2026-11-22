@@ -1,4 +1,4 @@
-# INR-TSD: time-series decomposition with implicit neural representations
+# INR-TSD: Implicit Neural Representations for Time Series Decomposition with Periodic Activation Functions
 
 INR-TSD decomposes time series into trend and seasonality using two single-hidden-layer neural networks with sinusoidal activations. The trend is fitted first, followed by the seasonal component of the detrended signal.
 
